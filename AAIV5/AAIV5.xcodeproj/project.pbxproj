@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7964E8D32536E24400161CFE /* fetchApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7964E8D22536E24400161CFE /* fetchApi.swift */; };
 		79D6743E25354C91001855C7 /* Key.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D6743D25354C91001855C7 /* Key.swift */; };
 		79EBC2D925349DAD00D70F92 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EBC2D825349DAD00D70F92 /* AppDelegate.swift */; };
 		79EBC2DB25349DAD00D70F92 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EBC2DA25349DAD00D70F92 /* SceneDelegate.swift */; };
@@ -63,7 +62,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		7964E8D22536E24400161CFE /* fetchApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fetchApi.swift; sourceTree = "<group>"; };
 		79D6743D25354C91001855C7 /* Key.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Key.swift; sourceTree = "<group>"; };
 		79EBC2D525349DAD00D70F92 /* AAIV5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AAIV5.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79EBC2D825349DAD00D70F92 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -172,7 +170,6 @@
 				79EBC2E625349DAD00D70F92 /* Info.plist */,
 				79EBC3342534B95900D70F92 /* Aai-Bridging-Header.h */,
 				79D6743D25354C91001855C7 /* Key.swift */,
-				7964E8D22536E24400161CFE /* fetchApi.swift */,
 			);
 			path = AAIV5;
 			sourceTree = "<group>";
@@ -348,7 +345,6 @@
 				79D6743E25354C91001855C7 /* Key.swift in Sources */,
 				79EBC2DB25349DAD00D70F92 /* SceneDelegate.swift in Sources */,
 				79EBC4022534C1C000D70F92 /* AAILivenessViewController.m in Sources */,
-				7964E8D32536E24400161CFE /* fetchApi.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -527,7 +523,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 23B6T94FN2;
+				DEVELOPMENT_TEAM = T2MC35LP6W;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/AAIV5/AAILivenessSDK",
@@ -538,7 +534,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ubx.louiejay.AAIV5;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ubx.mobile.AAIV5;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -551,7 +547,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 23B6T94FN2;
+				DEVELOPMENT_TEAM = T2MC35LP6W;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/AAIV5/AAILivenessSDK",
@@ -562,7 +558,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ubx.louiejay.AAIV5;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ubx.mobile.AAIV5;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

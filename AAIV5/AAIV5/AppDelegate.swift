@@ -13,8 +13,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        
-//        AAILivenessSDK.initWithAccessKey(keys.apikey, secretKey: keys.secretkey, market: AAILivenessMarketPhilippines)
 
         return true
     }

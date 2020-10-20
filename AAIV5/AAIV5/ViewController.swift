@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         scanBtn()
- 
+        
     }
 
     func scanBtn() {
@@ -34,8 +34,6 @@ class ViewController: UIViewController {
   
     }
     
-    
-
     func fetchApi() {
         
         let url = URL(string: "https://ph-api.advance.ai/ph/openapi/face-identity/v1/liveness-detection")
@@ -85,4 +83,3 @@ class ViewController: UIViewController {
         datatask.resume()
     }
 }
-
