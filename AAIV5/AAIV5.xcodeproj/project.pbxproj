@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		26EB8897253EB65D009E1730 /* Keys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26EB8896253EB65D009E1730 /* Keys.swift */; };
 		79EBC2D925349DAD00D70F92 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EBC2D825349DAD00D70F92 /* AppDelegate.swift */; };
 		79EBC2DB25349DAD00D70F92 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EBC2DA25349DAD00D70F92 /* SceneDelegate.swift */; };
 		79EBC2DD25349DAD00D70F92 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79EBC2DC25349DAD00D70F92 /* ViewController.swift */; };
@@ -61,6 +62,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		26EB8896253EB65D009E1730 /* Keys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Keys.swift; sourceTree = "<group>"; };
 		79EBC2D525349DAD00D70F92 /* AAIV5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AAIV5.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79EBC2D825349DAD00D70F92 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		79EBC2DA25349DAD00D70F92 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -167,6 +169,7 @@
 				79EBC2E325349DAD00D70F92 /* LaunchScreen.storyboard */,
 				79EBC2E625349DAD00D70F92 /* Info.plist */,
 				79EBC3342534B95900D70F92 /* Aai-Bridging-Header.h */,
+				26EB8896253EB65D009E1730 /* Keys.swift */,
 			);
 			path = AAIV5;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				79EBC4042534C1C000D70F92 /* AAILivenessResultViewController.m in Sources */,
+				26EB8897253EB65D009E1730 /* Keys.swift in Sources */,
 				79EBC2DD25349DAD00D70F92 /* ViewController.swift in Sources */,
 				79EBC4032534C1C000D70F92 /* AAIHUD.m in Sources */,
 				79EBC2D925349DAD00D70F92 /* AppDelegate.swift in Sources */,
